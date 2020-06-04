@@ -22,6 +22,7 @@
   justify-content: center;
   font-size: calc(10px + 2vmin);
   color: white;
+  font-family: 'Courier New';
 }
 
 .App-link {
@@ -35,4 +36,30 @@
   to {
     transform: rotate(360deg);
   }
+}
+
+button {
+  background: red;
+  border-radius: 20px;
+  font-family: 'Courier New';
+  color: white;
+  font-size: 24px;
+  padding: 12px 28px;
+  margin: 24px;
+}
+
+h1 {
+  font-size: 7em;
+  color: lime;
+  font-family: 'Courier New';
+}
+
+h2 {
+  font-size: 36px;
+}
+
+h3 {
+  font-size: 48px;
+  color: lime;
+  font-family: 'Courier New';
 }
